@@ -1,5 +1,5 @@
-if(EXISTS "D:/c++/students/2 semestr/Seminar2/project-git/build/tests/hello_test2[1]_tests.cmake")
-  include("D:/c++/students/2 semestr/Seminar2/project-git/build/tests/hello_test2[1]_tests.cmake")
+if(EXISTS "/home/Aurora/CPP/project-git/build1/tests/hello_test2[1]_tests.cmake")
+  include("/home/Aurora/CPP/project-git/build1/tests/hello_test2[1]_tests.cmake")
 else()
   add_test(hello_test2_NOT_BUILT hello_test2_NOT_BUILT)
 endif()

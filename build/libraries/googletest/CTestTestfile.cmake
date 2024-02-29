@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest
-# Build directory: D:/c++/students/2 semestr/Seminar2/project-git/build/libraries/googletest
+# Source directory: /home/Aurora/CPP/project-git/libraries/googletest
+# Build directory: /home/Aurora/CPP/project-git/build1/libraries/googletest
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
